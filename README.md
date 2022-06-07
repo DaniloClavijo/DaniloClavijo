@@ -1,4 +1,4 @@
- <code><img width="100%" src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
+ <code><img width="100%" heigth = '50%' src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
 ### Hi, 👋 my name is Danilo
 
 
