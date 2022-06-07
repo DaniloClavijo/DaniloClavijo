@@ -1,11 +1,11 @@
- <code><img width="100%" height="15%" src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
+ <code><img width="100%" height="5%" src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
 ### Hi, 👋 my name is Danilo
 
 
 <h2 align="center">
 Full Stack Developer :heart: from Colombia to :earth_americas:
 </h2>
-
+&nbsp;&nbsp;
 ## :star: Languages and Tools: 
 
 <p>
