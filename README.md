@@ -1,12 +1,12 @@
  <code><img width="10%" src="DaniloClavijo\images\ia.webp"></code>
-### Hi 👋 my name is Danilo
+### Hi, 👋 my name is Danilo
 
 
 <h2 align="center">
 Full Stack Developer :heart: from Colombia to :earth_americas:
 </h2>
 
-## :star: Languages and Tools:
+## :star: Languages and Tools: 
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
