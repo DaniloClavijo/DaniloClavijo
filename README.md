@@ -1,4 +1,4 @@
- <code><img width="10%" src="DaniloClavijo\images\ia.webp"></code>
+ <code><img width="10%" src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
 ### Hi, 👋 my name is Danilo
 
 
@@ -25,6 +25,9 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
   <br />
 </p>
 
-Skills: || REACT js || JS || HTML || CSS || EXPRESS || SEQUELIZE ||
 
-
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/cristian-danilo/" ><img width="5%" src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:cristian_dan.munoz@uao.edu.co?Subject=Aquí%20el%20asunto%20del%20mail" ><img width="5%" src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/logos/gmail-icon%20green.png">
+</span>
