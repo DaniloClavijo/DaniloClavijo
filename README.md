@@ -1,4 +1,4 @@
- <code><img width= "100%" height="5%" src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
+ <code><img width= "100%" height="25px" src="https://raw.githubusercontent.com/DaniloClavijo/DaniloClavijo/main/images/ia.webp"></code>
 ### Hi, 👋 my name is Danilo
 
 
@@ -22,6 +22,7 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
   <code><img  width="10%" height="50px" src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <code><img width="10%  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"</code>
   <br />
 </p>
 
