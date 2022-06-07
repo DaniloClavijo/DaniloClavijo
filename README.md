@@ -34,11 +34,7 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 <h3>Proyect  Bootcamp SoyHenry "VideoGames"</h3>
     <br/>
    
-   <h4> se logro Desarrollar  un SPA(Single Page Aplpication) desde cero,  utilizando React para el
-front y Redux como state management.
--se implementaroncomponentes con CSS puro sin uso de librerías externas.
--se Consumio una API (https://rawg.io/apidocs) a través de un Back End
-desarrollado en Node.Js utilizando Express, y agregando nuevas como filtrados , ordenamientos, busquedas.. 
+   <h4> It was possible to develop a SPA (Single Page Application) from scratch, using React for the front and Redux as state management. -Components with pure CSS were implemented without the use of external libraries. -An API (https://rawg.io/apidocs) was consumed through a Back End developed in Node.Js using Express, and adding new ones such as filtering, ordering, searching...
 </h4>
     <br/>
 <p>
@@ -49,7 +45,8 @@ desarrollado en Node.Js utilizando Express, y agregando nuevas como filtrados , 
     <br/>
 <h3>Group Grupal Bootcamp SoyHenry "E-commercell"</h3>
 <p>
-   <h4> se logro Desarrollar  un E-COMMERCE desde cero en compañia de 4 compañeros del bootcamp,logramos trabajar en conjunto con la metodologia de scrum, logrando aplicar todos los conocimientos adquiridos en el bootcamp , y agregando nuevos conocimientos en las partes claves de un e-commerce como lo son la autentificacion, pasarela de pagos, carrito de compras, etc ... 
+   <h4>
+   It was possible to develop an E-COMMERCE from scratch in the company of 4 colleagues from the bootcamp, we managed to work together with the scrum methodology, managing to apply all the knowledge acquired in the bootcamp, and adding new knowledge in the key parts of an e-commerce such as authentication, payment gateway, shopping cart, etc... 
 </h4>
    <br/>
   <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/E-commercell/inicio.PNG"></a>
