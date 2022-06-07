@@ -25,6 +25,26 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
   <code><img width="10%  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"</code>
   <br />
 </p>
+   
+   &nbsp;
+
+## :pushpin: My proyects
+
+<h3>Proyecto Individual Bootcamp SoyHenry "VideoGames"</h3>
+<p>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/Videogames/landingVideogame.PNG"></a>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/Videogames/inicio.PNG"></a>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/Videogames/create.PNG"></a>
+</p>
+
+<h3>Proyecto Grupal Bootcamp SoyHenry "E-commercell"</h3>
+<p>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/E-commercell/inicio.PNG"></a>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/E-commercell/logeo.PNG"></a>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/E-commercell/checkout.PNG"></a>
+  <a><img src="https://github.com/DaniloClavijo/DaniloClavijo/blob/main/images/E-commercell/psarelaPagos.PNG"></a>
+</p> 
+&nbsp;
 
 
 ## :paperclip: How to reach me:
